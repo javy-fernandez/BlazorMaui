@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ch+fmL0228A14CnoPb2WDzudngkyPtkuvfmh8PskVlk=",
+  "Source": "RazorLibrary",
+  "BasePath": "_content/RazorLibrary",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorLibrary\\wwwroot",
+      "Source": "RazorLibrary",
+      "ContentRoot": "C:\\Users\\Mariu\\Desktop\\BlazorMauiApp\\RazorLibrary\\wwwroot\\",
+      "BasePath": "_content/RazorLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
